@@ -1,0 +1,80 @@
+Added Component: Designator=B1(SOTFL50P160X60-8N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP3438GTL/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Geometry.Height"; Value = "0.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Monolithic Power Systems (MPS)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "MP3438GTL-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "946-MP3438GTL-Z"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Monolithic-Power-Systems-MPS/MP3438GTL-Z?qs=tlsG%2FOw5FFjfFO8TaWv5UA%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=C1(ece-CC2012-0805)
+Add component (AddParameter): Name = "Value"; Value = "10u"; VariantName = "[No Variations]"
+Added Component: Designator=C2(ece-CC2012-0805)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C3(ece-CC2012-0805)
+Add component (AddParameter): Name = "Value"; Value = "1u"; VariantName = "[No Variations]"
+Added Component: Designator=C4(ece-CC2012-0805)
+Add component (AddParameter): Name = "Value"; Value = "0.1u"; VariantName = "[No Variations]"
+Added Component: Designator=C5(ece-CC2012-0805)
+Add component (AddParameter): Name = "Value"; Value = "4.7u"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ece-HDR1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ece-HDR1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=J?(ece-HDR1)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=L1(MPL-AL4020)
+Add component (AddParameter): Name = "Value"; Value = "3.3u"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESC2012-0805SM)
+Add component (AddParameter): Name = "Value"; Value = "750k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESC2012-0805SM)
+Add component (AddParameter): Name = "Value"; Value = "68k"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESC2012-0805SM)
+Add component (AddParameter): Name = "Value"; Value = "30k"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=B1-4
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Pin To Net: NetName=GND Pin=J?-1
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetB1_1 Pin=B1-1
+Added Pin To Net: NetName=NetB1_1 Pin=C4-1
+Added Net: Name=NetB1_1
+Added Pin To Net: NetName=NetB1_3 Pin=B1-3
+Added Pin To Net: NetName=NetB1_3 Pin=C4-2
+Added Pin To Net: NetName=NetB1_3 Pin=L1-2
+Added Net: Name=NetB1_3
+Added Pin To Net: NetName=NetB1_5 Pin=B1-5
+Added Pin To Net: NetName=NetB1_5 Pin=R1-2
+Added Pin To Net: NetName=NetB1_5 Pin=R2-2
+Added Net: Name=NetB1_5
+Added Pin To Net: NetName=NetB1_6 Pin=B1-6
+Added Pin To Net: NetName=NetB1_6 Pin=C3-2
+Added Net: Name=NetB1_6
+Added Pin To Net: NetName=NetB1_7 Pin=B1-7
+Added Pin To Net: NetName=NetB1_7 Pin=R3-2
+Added Net: Name=NetB1_7
+Added Pin To Net: NetName=Vin Pin=B1-8
+Added Pin To Net: NetName=Vin Pin=C5-1
+Added Pin To Net: NetName=Vin Pin=J?-1
+Added Pin To Net: NetName=Vin Pin=L1-1
+Added Pin To Net: NetName=Vin Pin=R3-1
+Added Net: Name=Vin
+Added Pin To Net: NetName=Vout Pin=B1-2
+Added Pin To Net: NetName=Vout Pin=C1-2
+Added Pin To Net: NetName=Vout Pin=C2-2
+Added Pin To Net: NetName=Vout Pin=J?-1
+Added Pin To Net: NetName=Vout Pin=R1-1
+Added Net: Name=Vout
+Added Class: Name=MP3438 Prototype
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1
+Added Rule: Name=Schematic Supply Nets_2
